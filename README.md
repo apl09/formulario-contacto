@@ -1,3 +1,0 @@
-# TallerGit
-
-Bienvenidos a git
